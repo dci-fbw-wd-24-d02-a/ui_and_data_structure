@@ -1,0 +1,68 @@
+[
+  {
+    "title": "First Article",
+    "content": [
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec rhoncus elementum tellus non fringilla. Proin blandit, ipsum non commodo aliquet, nibh nulla sodales ex, sit amet luctus velit erat convallis turpis. Donec non commodo nibh, a hendrerit ante. In ac mauris ante. Cras faucibus consectetur sapien, vel tincidunt ex dictum nec. Aenean ullamcorper massa eget purus varius ullamcorper. Curabitur ante augue, bibendum id elementum sed, sodales nec turpis. Aliquam ultrices sit amet elit et mollis. Cras in pellentesque turpis, quis commodo ante. Quisque sed risus metus. Integer hendrerit nunc et feugiat tincidunt. Donec id ipsum metus.",
+      "In dui massa, fermentum at lorem non, dapibus feugiat purus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed arcu erat, sagittis quis posuere et, lobortis non ante. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Quisque ac dui vitae nibh vestibulum ornare. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque vitae pellentesque felis, nec accumsan erat. Integer at diam vitae lacus fermentum varius at sed massa. Ut convallis dolor nec nisi condimentum egestas. Vivamus scelerisque vitae orci quis hendrerit. Sed lorem mi, dapibus sit amet ipsum sed, feugiat interdum metus.",
+      "Sed placerat ante a urna viverra, vel imperdiet orci vulputate. Vivamus arcu nunc, vestibulum non aliquam id, molestie lacinia orci. Nam lacus purus, vehicula nec massa vitae, tincidunt fermentum leo. Suspendisse potenti. Vivamus vitae suscipit neque. Fusce tincidunt, ante id dignissim maximus, tellus nulla pretium dolor, nec ultricies quam leo id tellus. Vivamus ut placerat enim, et feugiat tortor. Fusce nec nunc quis mauris blandit dictum eu pharetra ipsum. Pellentesque euismod convallis nibh, at lobortis tortor consequat eget. Fusce hendrerit nunc a dolor molestie feugiat.",
+      "Ut pretium malesuada commodo. Duis dignissim lectus mattis varius pellentesque. In tempus metus sed justo dapibus, quis aliquet nisi euismod. In feugiat leo aliquet cursus vestibulum. Nulla eleifend iaculis tincidunt. Fusce sem tellus, fermentum ac vulputate eu, gravida in mauris. Aenean non aliquam tellus, vel blandit nulla. Integer faucibus, felis ut dignissim elementum, nulla libero egestas sapien, eu eleifend lectus mauris ut elit.",
+      "Suspendisse venenatis pellentesque sapien, in cursus magna cursus vel. Sed imperdiet orci sapien, vitae porttitor arcu pulvinar quis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aliquam odio turpis, hendrerit vel diam vel, dictum dictum nisl. Vivamus placerat nulla quis urna ornare varius. Vivamus ut venenatis felis, eu elementum nisi. In eget diam euismod, cursus tellus convallis, facilisis quam. "
+    ]
+  },
+  {
+    "title": "Second Article",
+    "content": [
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mauris nisi, sagittis tristique cursus aliquam, condimentum quis urna. Sed non scelerisque libero. Etiam bibendum diam non lacinia tincidunt. Nam tempus nisl ut sem iaculis, eu porta odio finibus. Suspendisse nibh turpis, sodales a elit quis, fermentum iaculis ligula. Donec mattis sit amet nibh vitae vestibulum. Sed in orci sit amet ante luctus feugiat. Aliquam aliquet et nisi nec dictum. Nullam sed nulla neque. Suspendisse non tempor sem. Donec rhoncus erat sed congue congue. Aliquam nec erat feugiat, interdum quam at, maximus quam. Maecenas eget sem vitae tellus sodales pharetra.",
+      "Nullam eget cursus diam, sed pharetra nibh. Aenean vel mattis sem. Curabitur hendrerit urna tellus, at convallis dui lacinia sed. Maecenas vitae scelerisque justo. Praesent at sodales augue. Etiam ut lacus eu ipsum consectetur ultrices. Quisque sed mi vitae sapien sollicitudin blandit.",
+      "Praesent ut hendrerit nisi. Aliquam pellentesque velit sed nulla accumsan cursus. Suspendisse et purus fermentum, tincidunt justo quis, ultricies massa. Pellentesque ultricies tortor et est ullamcorper, eget tristique diam accumsan. Sed eu gravida ligula. Nulla finibus porttitor tristique. Aenean augue orci, sagittis vitae dignissim a, consectetur eu dolor. Duis nec ante quis augue sollicitudin tincidunt eget ut ante. Duis consectetur tempor ultrices. Sed viverra nulla dui, id varius urna molestie eget. Sed eget ullamcorper odio. Phasellus rutrum nec dolor eget finibus.",
+      "Nam quis tortor neque. Suspendisse quis leo cursus, iaculis metus id, suscipit justo. Ut tempor tortor a blandit volutpat. Donec cursus euismod nunc a iaculis. Vivamus et varius augue, eu iaculis urna. Donec et ultricies eros. Curabitur pulvinar ligula non dui venenatis, in accumsan ante scelerisque. Nullam porttitor tempus luctus. Phasellus egestas dui nec justo tempus dignissim. Pellentesque quis augue non sem ultrices iaculis.",
+      "Aliquam hendrerit metus ornare dolor tincidunt luctus. Cras sapien erat, rhoncus at auctor nec, sagittis ac sapien. Duis sed condimentum felis. Donec ullamcorper mauris non dolor mattis, et viverra sapien aliquet. Curabitur nibh lacus, vulputate at justo in, ultrices tincidunt leo. Nulla convallis, libero non congue semper, urna metus sodales quam, quis lobortis ex urna quis eros. Nullam mauris erat, tincidunt nec nisl sit amet, venenatis sagittis turpis. Duis ut mollis leo, at facilisis magna. Aenean in magna tincidunt, vestibulum felis vitae, porta velit. Vivamus pretium fringilla accumsan. Donec consectetur condimentum diam at eleifend."
+    ],
+    "date": "13 March 2023",
+    "category": "POlitic",
+    "author": {
+      "firstName": "Heinrich",
+      "lastName": "Heine",
+      "portrait": "https://images.unsplash.com/photo-1657815695620-2a0171bf2cf2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8cG9ydHJhaXQlMjBibGFjayUyMGFuZCUyMHdoaXRlfGVufDB8fDB8fHww",
+      "role": "Photographer"
+    }
+  },
+  {
+    "title": "Third Article",
+    "content": [
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec rhoncus elementum tellus non fringilla. Proin blandit, ipsum non commodo aliquet, nibh nulla sodales ex, sit amet luctus velit erat convallis turpis. Donec non commodo nibh, a hendrerit ante. In ac mauris ante. Cras faucibus consectetur sapien, vel tincidunt ex dictum nec. Aenean ullamcorper massa eget purus varius ullamcorper. Curabitur ante augue, bibendum id elementum sed, sodales nec turpis. Aliquam ultrices sit amet elit et mollis. Cras in pellentesque turpis, quis commodo ante. Quisque sed risus metus. Integer hendrerit nunc et feugiat tincidunt. Donec id ipsum metus.",
+      "In dui massa, fermentum at lorem non, dapibus feugiat purus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed arcu erat, sagittis quis posuere et, lobortis non ante. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Quisque ac dui vitae nibh vestibulum ornare. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque vitae pellentesque felis, nec accumsan erat. Integer at diam vitae lacus fermentum varius at sed massa. Ut convallis dolor nec nisi condimentum egestas. Vivamus scelerisque vitae orci quis hendrerit. Sed lorem mi, dapibus sit amet ipsum sed, feugiat interdum metus.",
+      "Sed placerat ante a urna viverra, vel imperdiet orci vulputate. Vivamus arcu nunc, vestibulum non aliquam id, molestie lacinia orci. Nam lacus purus, vehicula nec massa vitae, tincidunt fermentum leo. Suspendisse potenti. Vivamus vitae suscipit neque. Fusce tincidunt, ante id dignissim maximus, tellus nulla pretium dolor, nec ultricies quam leo id tellus. Vivamus ut placerat enim, et feugiat tortor. Fusce nec nunc quis mauris blandit dictum eu pharetra ipsum. Pellentesque euismod convallis nibh, at lobortis tortor consequat eget. Fusce hendrerit nunc a dolor molestie feugiat.",
+      "Ut pretium malesuada commodo. Duis dignissim lectus mattis varius pellentesque. In tempus metus sed justo dapibus, quis aliquet nisi euismod. In feugiat leo aliquet cursus vestibulum. Nulla eleifend iaculis tincidunt. Fusce sem tellus, fermentum ac vulputate eu, gravida in mauris. Aenean non aliquam tellus, vel blandit nulla. Integer faucibus, felis ut dignissim elementum, nulla libero egestas sapien, eu eleifend lectus mauris ut elit.",
+      "Suspendisse venenatis pellentesque sapien, in cursus magna cursus vel. Sed imperdiet orci sapien, vitae porttitor arcu pulvinar quis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aliquam odio turpis, hendrerit vel diam vel, dictum dictum nisl. Vivamus placerat nulla quis urna ornare varius. Vivamus ut venenatis felis, eu elementum nisi. In eget diam euismod, cursus tellus convallis, facilisis quam. "
+    ],
+    "image": "https://plus.unsplash.com/premium_photo-1673621329410-e4ef5df05b69?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8QmxhY2slMjBhbmQlMjBXaGl0ZXxlbnwwfHwwfHx8MA%3D%3D",
+    "date": "13 March 2023",
+    "category": "",
+    "author": {
+      "firstName": "Ida",
+      "lastName": "Weinberg",
+      "portrait": "https://images.unsplash.com/photo-1515469446389-74ef48ae90b2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDN8fHBvcnRyYWl0JTIwYmxhY2slMjBhbmQlMjB3aGl0ZXxlbnwwfHwwfHx8MA%3D%3D",
+      "role": "Photographer"
+    }
+  },
+  {
+    "title": "Fourth Article",
+    "content": [
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mauris nisi, sagittis tristique cursus aliquam, condimentum quis urna. Sed non scelerisque libero. Etiam bibendum diam non lacinia tincidunt. Nam tempus nisl ut sem iaculis, eu porta odio finibus. Suspendisse nibh turpis, sodales a elit quis, fermentum iaculis ligula. Donec mattis sit amet nibh vitae vestibulum. Sed in orci sit amet ante luctus feugiat. Aliquam aliquet et nisi nec dictum. Nullam sed nulla neque. Suspendisse non tempor sem. Donec rhoncus erat sed congue congue. Aliquam nec erat feugiat, interdum quam at, maximus quam. Maecenas eget sem vitae tellus sodales pharetra.",
+      "Nullam eget cursus diam, sed pharetra nibh. Aenean vel mattis sem. Curabitur hendrerit urna tellus, at convallis dui lacinia sed. Maecenas vitae scelerisque justo. Praesent at sodales augue. Etiam ut lacus eu ipsum consectetur ultrices. Quisque sed mi vitae sapien sollicitudin blandit.",
+      "Praesent ut hendrerit nisi. Aliquam pellentesque velit sed nulla accumsan cursus. Suspendisse et purus fermentum, tincidunt justo quis, ultricies massa. Pellentesque ultricies tortor et est ullamcorper, eget tristique diam accumsan. Sed eu gravida ligula. Nulla finibus porttitor tristique. Aenean augue orci, sagittis vitae dignissim a, consectetur eu dolor. Duis nec ante quis augue sollicitudin tincidunt eget ut ante. Duis consectetur tempor ultrices. Sed viverra nulla dui, id varius urna molestie eget. Sed eget ullamcorper odio. Phasellus rutrum nec dolor eget finibus.",
+      "Nam quis tortor neque. Suspendisse quis leo cursus, iaculis metus id, suscipit justo. Ut tempor tortor a blandit volutpat. Donec cursus euismod nunc a iaculis. Vivamus et varius augue, eu iaculis urna. Donec et ultricies eros. Curabitur pulvinar ligula non dui venenatis, in accumsan ante scelerisque. Nullam porttitor tempus luctus. Phasellus egestas dui nec justo tempus dignissim. Pellentesque quis augue non sem ultrices iaculis.",
+      "Aliquam hendrerit metus ornare dolor tincidunt luctus. Cras sapien erat, rhoncus at auctor nec, sagittis ac sapien. Duis sed condimentum felis. Donec ullamcorper mauris non dolor mattis, et viverra sapien aliquet. Curabitur nibh lacus, vulputate at justo in, ultrices tincidunt leo. Nulla convallis, libero non congue semper, urna metus sodales quam, quis lobortis ex urna quis eros. Nullam mauris erat, tincidunt nec nisl sit amet, venenatis sagittis turpis. Duis ut mollis leo, at facilisis magna. Aenean in magna tincidunt, vestibulum felis vitae, porta velit. Vivamus pretium fringilla accumsan. Donec consectetur condimentum diam at eleifend."
+    ],
+    "image": "https://images.unsplash.com/photo-1532517308734-0565178471d2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8QmxhY2slMjBhbmQlMjBXaGl0ZXxlbnwwfHwwfHx8MA%3D%3D",
+    "date": "13 March 2023",
+    "category": "Politic",
+    "author": {
+      "firstName": "Julius",
+      "lastName": "Sterlitz",
+      "portrait": "https://images.unsplash.com/photo-1551944636-a2b3624bd216?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjR8fHBvcnRyYWl0JTIwYmxhY2slMjBhbmQlMjB3aGl0ZXxlbnwwfHwwfHx8MA%3D%3D",
+      "role": "Editor"
+    }
+  }
+]
